@@ -4,7 +4,7 @@
 
 Submitted by: **Chaliana Rolon**
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Settings are yet to be implemented, need to read more on UserDefaults class.
+Settings are yet to be implemented, need to read more on UserDefaults class and get used to Objective-C.
 
 ## Credits
 
